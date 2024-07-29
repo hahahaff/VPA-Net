@@ -1,5 +1,4 @@
-# VPA-Net
-A visual perception assistance network for semantic segmentation of 3D point clouds
+# VPA-Net: A visual perception assistance network for semantic segmentation of 3D point clouds
 
 ## VPA-Net implementation
 Pytorch implementation of VPA-Net
