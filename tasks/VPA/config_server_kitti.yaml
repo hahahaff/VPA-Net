@@ -27,7 +27,6 @@ img_backbone: "resnet34"
 imagenet_pretrained: true
 
 lambda: 1.0
-tau: 0.7
 
 # cehckpoint model
 checkpoint: null
